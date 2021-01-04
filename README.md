@@ -49,8 +49,8 @@
 
 * กด ok
 
-![Choose Repository >>> Commit >> ok](multi2.jpg)
+* จากนั้นจะเข้าไปสู่หน้าเว็ปของ github ที่แสดงตัวของ Colab ที่ Saveไว้ให้ดูและถือว่าเป็นอันเสร็จสิ้น
 
-* จากนั้นจะเข้าสู่หน้าเว็ปของ github ถือว่าเป็นอันเสร็จสิ้น
+![Choose Repository >>> Commit >> ok](multi2.jpg)
 
 ***
