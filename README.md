@@ -4,10 +4,12 @@
 
 .md => makedown
 
-[ ] square brackets 
+##### ชื่อตัวแปร
 
-( ) parentheses
+[ ] => square brackets 
 
-![คำอธิบายรูป](ไฟล์.png)
+( ) => parentheses
+
+##### งานที่ได้รับหมอบหมาย
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
