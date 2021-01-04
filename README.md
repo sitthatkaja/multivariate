@@ -37,6 +37,10 @@
 
 วิธีการเซฟไฟล์จาก Google Colab ลงใน Github
 
-##### File >>> Save a copy Github >>> Choose Repository >>> Change Name Commit Message >>> ok >>> Finish
+1.ใน Google Colab ให้ไปที่ File 
 
-***
+2.เลือก Save a copy Github 
+
+![คำอธิบายรูปภาพ](ไฟล์รูป.png)
+
+3.
