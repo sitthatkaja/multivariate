@@ -37,20 +37,20 @@
 
 ##### วิธีการเซฟไฟล์จาก Google Colab ลงใน Github
 
-1.ใน Google Colab ให้ไปที่ File 
+* ใน Google Colab ให้ไปที่ File 
 
-2.เลือก Save a copy Github 
+* เลือก Save a copy Github 
 
 ![File >>> Save a copy Github](multi1.jpg)
 
-3. เลือก Repository ที่จะถูกส่งไป
+* เลือก Repository ที่จะถูกส่งไป
 
-4. เปลี่ยนชื่อ Commit message
+* เปลี่ยนชื่อ Commit message
 
-5. กด ok
+* กด ok
 
 ![Choose Repository >>> Commit >> ok](multi2.jpg)
 
-6. จากนั้นจะเข้าสู่หน้าเว็ปของ github ถือว่าเป็นอันเสร็จสิ้น
+* จากนั้นจะเข้าสู่หน้าเว็ปของ github ถือว่าเป็นอันเสร็จสิ้น
 
 ***
