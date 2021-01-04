@@ -2,16 +2,16 @@
 
 ***
 
-### ชื่อ-สกุล : สิทธัตกะ จรัสแสง 
-### รหัสนักศึกษา : 623020541-2
+### :point_right: ชื่อ-สกุล : สิทธัตกะ จรัสแสง 
+### :point_right: รหัสนักศึกษา : 623020541-2
 
 ***
 
-##### นามสกุล .md => makedown [สามารถดู Code ต่างๆได้ที่โดยคลิ้กที่นี้](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+##### :beginner: นามสกุล .md => makedown [สามารถดู Code ต่างๆได้ที่โดยคลิ้กที่นี้](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ***
 
-##### ชื่อตัวแปร
+##### :book: ชื่อตัวแปร
 
 [ ] => square brackets 
 
@@ -19,14 +19,14 @@
 
 ***
 
-##### ตัวอย่างการ Upload Image => add file >>> upload file >>> choose file >>> Finish
+##### :heavy_check_mark: ตัวอย่างการ Upload Image => add file >>> upload file >>> choose file >>> Finish
 
 
-##### ตัวอย่างการใส่ภาพ !.[ คำอธิบายรูปภาพ ].( ไฟล์รูป.png ).
+##### :heavy_check_mark: ตัวอย่างการใส่ภาพ !.[ คำอธิบายรูปภาพ ].( ไฟล์รูป.png ).
 
 ***
 
-#### งานที่ได้รับหมอบหมาย
+#### :exclamation: :exclamation: :exclamation: งานที่ได้รับหมอบหมาย :exclamation: :exclamation: :exclamation:
 
 ##### อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่แต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน GitHub
 
